@@ -1,0 +1,11 @@
+﻿code,name_vi,name_en,var_en
+DTTBHCCDV,Doanh thu bán hàng và CCDV,Net revenue (goods & services),revenue_net
+GV,Giá vốn hàng bán,Cost of goods sold,cogs
+LNGBHCCDV,Lợi nhuận gộp về BH và cung cấp DV,Gross profit (goods & services),gross_profit
+LNK,Lợi nhuận khác,Other profit/income,other_profit
+LNSTTNDN,Lợi nhuận sau thuế,Profit after tax,profit_after_tax
+LNTC,Lợi nhuận tài chính,Financial income (net),financial_income_net
+NetIncome,Lợi nhuận sau thuế của công ty mẹ,Net income (parent company),net_income_parent
+TongChiPhi,Tổng chi phí,Total expenses,total_expenses
+TotalIncome,Tổng doanh thu,Total revenue,total_revenue
+TotalProfit,Tổng lợi nhuận trước thuế,Profit before tax,profit_before_tax

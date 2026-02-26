@@ -1,0 +1,17 @@
+=== Province treated intensity (pre 2020-2021) ===
+Provinces with pre data: 41
+count    41.000000
+mean      0.331743
+std       0.342174
+min       0.000000
+25%       0.000000
+50%       0.250000
+75%       0.500000
+max       1.000000
+Name: treated_intensity_pre, dtype: float64
+
+=== Province-year dataset ===
+Province-years: 123 | Provinces: 41
+Years: [2020, 2021, 2022]
+
+[OK] Saved: stata/output/Table_DiD_LEP2022_province_intensity.xlsx

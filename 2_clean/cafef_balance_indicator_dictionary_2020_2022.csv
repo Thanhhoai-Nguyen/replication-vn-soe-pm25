@@ -1,0 +1,11 @@
+﻿code,name_vi,name_en,var_en
+DauTuCK,Đầu tư chứng khoán,Securities investment,securities_investment
+GopVonDTDaiHan,Góp vốn và đầu tư dài hạn,Long-term investments,long_term_investments
+ShortTermFloatingCapital,Tổng tài sản lưu động ngắn hạn,Current assets,current_assets
+TienChoVay,Tiền cho vay,Loans receivable,loans_receivable
+TienGui,Tiền gửi,Cash and deposits,cash_and_deposits
+TotalAsset,Tổng tài sản,Total assets,total_assets
+TotalDebt,Tổng nợ,Total liabilities,total_liabilities
+TotalOwnerCapital,Vốn chủ sở hữu,Total equity,total_equity
+TotalShortTermDebt,Nợ ngắn hạn,Current liabilities,current_liabilities
+VonQui,Vốn và các quỹ,,vonqui

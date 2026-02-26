@@ -1,0 +1,7 @@
+=== Merge report: PM2.5 into panel ===
+Panel rows: 5,576
+Rows with missing pm25_mean after merge: 415 (7.44%)
+Number of tickers affected (missing pm25_mean): 36
+Affected tickers (first up to 20): ADG, AGR, BIC, BST, BTP, BVS, CIG, CRC, CTS, FID, HDC, HHP, HHV, HMR, HRC, HSL, IVS, JVC, KTS, MHC
+[OK] Saved CSV: 2_clean/panel_2020_2022_analysis_with_pm25.csv
+[OK] Saved DTA: 2_clean/panel_2020_2022_analysis_with_pm25.dta

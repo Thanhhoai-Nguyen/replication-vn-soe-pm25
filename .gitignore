@@ -1,0 +1,9 @@
+# secrets
+0_input/cafef_cookie.txt
+
+# raw scraped / large data
+1_raw/
+
+# geotiff large files (if they exist outside 1_raw)
+*.tif
+*.tiff

@@ -1,0 +1,13 @@
+pollution_group value counts (raw):
+pollution_group
+other    2759
+high     1292
+low      1110
+Name: count, dtype: int64
+
+Sample used:
+Rows: 4981 | Firms: 427
+Post=1 share: 0.3382854848424011
+Treated=1 share: 0.2569765107408151
+
+[OK] Saved: stata/output/Table_DiD_LEP2022.xlsx
